@@ -1,4 +1,4 @@
-# Tweet Sentiment Analysis
+# Sentiment Analysis of US Airline Tweets
 
 - Labeled American airline tweets based on polarity of opinion: positive, neutral, and negative
 - Utilized Natural Language Toolkit (nltk) to tokenize, lemmatize, and determine word frequency
