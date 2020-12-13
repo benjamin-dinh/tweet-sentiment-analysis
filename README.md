@@ -1,3 +1,8 @@
 # Tweet Sentiment Analysis
 
-Cleaned, normalized, and tokenized US airline tweets and created a term frequency-inverse document frequency (TF-IDF) matrix. Split the data into testing/training sets and performed logistic regression. Yielded an overall 80% accuracy rate.
+- Labeled American airline tweets based on polarity of opinion: positive, neutral, and negative
+- Utilized Natural Language Toolkit (nltk) to tokenize, lemmatize, and determine word frequency
+- Used TF-IDF, term frequency–inverse document frequency, to calculate word importance
+- Classified tweets using logistic regression
+
+The data set comes from https://raw.githubusercontent.com/lkyin/ECS189L/main/Tweets.csv
